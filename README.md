@@ -1,5 +1,5 @@
 Hola, I'm Aime Munezero 👋
-- 🔭 I’m currently seeking for a professional internship in Machine Learning
+- 🔭 I’m currently seeking for a Full Time role in Machine Learning/ NLP / Data Science / Data Engineering
 - 🌱 I’m currently learning Applied Machine Learning @CMU (Carnegie Mellon University)
 - 👯 I’m looking forward to collaborate on Machine Learning and DataScience projects
 - 🤔 I’m looking for help with AWS: Storage and Data Management
